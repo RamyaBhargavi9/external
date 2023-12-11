@@ -1,0 +1,27 @@
+h1
+{
+    color:blue;
+    font-style:italic;
+}
+p1
+{
+    color:red;
+    font-style: normal;
+}
+p2
+{
+    color:green ;
+   
+}
+p3
+{
+    color:yellow;
+}
+button
+{
+ color:purple;
+}
+body{
+    background-color: pink;
+    
+}
